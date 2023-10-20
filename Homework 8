@@ -1,0 +1,38 @@
+
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Hello everyone</title>
+</head>
+<body>    
+    <table>
+        <caption>Hero of Light info</caption>
+        <tr>
+            <th>characters</th>
+            <th>monster</th>
+            <th>areas</th>
+            <th>items</th>
+            <th>equipment</th>
+        </tr>
+        <tr>
+            <td>protagonist</td>
+            <td>demon prince</td>
+            <td>open world sections</td>
+            <td>health recovory</td>
+            <td>weapons</td>
+        </tr>
+        <tr>
+            <td>partners</td>
+            <td>normal monsters</td>
+            <td>2d sections</td>
+            <td>magic recovory</td>
+            <td>armor</td>
+        </tr>
+        <tr>
+            <td>npcs</td>
+            <td>bosses</td>
+            <td>fight areas</td>
+            <td>state recovory</td>
+            <td>accsessories</td>
+        </tr>
+    </table>
